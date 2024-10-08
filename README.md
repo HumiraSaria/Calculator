@@ -1,1 +1,2 @@
-# Build a Calculator using CSS, HTML and JavaScript. 
+#Calculator 
+Building a calculator using CSS, HTML and JavaScript.
